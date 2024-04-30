@@ -4,7 +4,7 @@ STUDY AND ANALYZE USER BEHAVIOR:
 
        HD   |  SD
 Series 55%  |  44%
-Movie  35%  |  64%
+Movie  35%  |  64% 
 
 In My analysis, viewers using HD tend to prefer movies, while SD is more popular among series enthusiasts. Users leaning towards longer content (series) opt for SD to conserve data. Alternatively, series may not always be available in HD.
 
