@@ -1,6 +1,7 @@
 # STCTV_Analysis
 
 STUDY AND ANALYZE USER BEHAVIOR:
+
        HD   |  SD
 Series 55%  |  44%
 Movie  35%  |  64%
